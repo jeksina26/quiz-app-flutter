@@ -1,4 +1,4 @@
-# choice_demo
+# Quiz app flutter
 
 A new Flutter project.
 
